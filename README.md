@@ -1,5 +1,6 @@
 ### Hello , I'm Hassan Essam 👋
 
+- 🎓 I’m a fresh graduate Computer Engineer from Shoubra Faculty of Engieering - Benha Univeristywith a very good grade.
 - 🔭 I last worked on <a href="https://github.com/DevDerpi/INKuisitor" >INKuisitor </a>
 - 🌱 I’m currently learning <a href="https://www.udemy.com/course/react-the-complete-guide-incl-redux/" >React.js </a>
 - 📫 How to reach me: Email- hassanessam1098@gmail.com -<a href="https://www.linkedin.com/in/devderpi/"> LinkedIn </a>
